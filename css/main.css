@@ -1,0 +1,39 @@
+body {
+  background: #808080;
+  color: #8b0000
+}
+header {
+  background: #000000;
+  color: #ffd700;
+  padding: 10px 1px 0 10px
+}
+footer {
+  background: #cc6600;
+  color: #CCFF00;
+  font-family: "Lucida Handwriting", Papyrus, monospace;
+}
+table, tr, td {
+  background: #3cb371;
+  color: #000000;
+  border: 3px solid;
+  width: 25%;
+  border-collapse:collapse;
+}
+
+
+td#cel1 {background: #FFFFFF; border-color: #000000; color: #000066;}
+td#cel2 {background: #FFFFCC;}
+td#cel3 {background: #FFCCFF; border-color: #000000; color: #BDB76B;}
+td#cel4 {background: #FF99FF;}
+td#cel5 {background: #FF99CC; border-color: #000000; color: #CC00CC;}
+td#cel6 {background: #FFFF99;}
+td#cel7 {background: #FFFF66; border-color: #000000; color: #FF0000;}
+td#cel8 {background: #FFFF33;}
+td#cel9 {background: #FFCCCC; border-color: #000000; color: #4b0082;}
+td#cel10 {background: #FFCC99;}
+td#cel11 {background: #FFCC66; border-color: #000000; color: #FFFF00;}
+td#cel12 {background: #FFCC33;}
+td#cel13 {background: #FF9999; border-color: #000000; color: #008080;}
+td#cel14 {background: #FF9966;}
+td#cel15 {background: #FF9933; border-color: #000000; color: #6600FF;}
+td#cel16 {background: #FF66FF;}
